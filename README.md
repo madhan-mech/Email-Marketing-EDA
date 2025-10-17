@@ -72,5 +72,4 @@ Successfully cleaned and analyzed the dataset, ensuring high-quality insights in
 
 ---
 
-## 💼 Resume Summary Line
-> Performed exploratory data analysis on an Email Marketing dataset using Python. Cleaned, transformed, and visualized customer engagement data to extract insights for marketing optimization.
+
