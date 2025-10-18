@@ -24,6 +24,7 @@ Performed several data preprocessing steps using **pandas** and **NumPy**:
 - Dropped unnecessary columns (`Column1`)
 - Standardized city names (e.g., “BANGLORE”, “Bangalore” → “BANGALORE”)
 - Replaced non-standard entries like `"Not Mention"` with `"NA"`
+- https://github.com/madhan-mech/Email-Marketing-EDA/blob/main/Email%20marketing%20Project.ipynb
 
 ---
 
