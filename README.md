@@ -71,9 +71,6 @@ Some key visualizations created:
 
 ---
 
-## 📄 Results
-Successfully cleaned and analyzed the dataset, ensuring high-quality insights into customer engagement patterns. This project highlights proficiency in Python-based data analysis and storytelling through visualization.
 
----
 
 
