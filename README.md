@@ -43,7 +43,8 @@ Some key visualizations created:
 - Bar charts for gender, marital status, and state distribution  
 - Countplots showing active vs inactive participants  
 - City-level participation comparison  
-- Correlation and categorical analysis for understanding engagement trends  
+- Correlation and categorical analysis for understanding engagement trends
+- https://github.com/madhan-mech/Email-Marketing-EDA/blob/main/PPT%20ON%20Email%20Marketing.pptx  
 
 ---
 
