@@ -11,6 +11,7 @@ The dataset contains customer records from an email marketing campaign, includin
 - **GenderCode, MaritalStatus, BirthDate** – Demographics  
 - **Status, Type, Enrolled_on** – Campaign and enrollment details
 - https://github.com/madhan-mech/Email-Marketing-EDA/blob/main/Email%20Marketing%20Analysis.xlsx
+- https://github.com/madhan-mech/Email-Marketing-EDA/blob/main/Email_marketing_cleaned_data.xlsx
 
 > *Note: The dataset was provided by a trainer and is not publicly available on Kaggle.*
 
